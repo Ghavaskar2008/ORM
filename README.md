@@ -44,7 +44,8 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-![alt text](<../Screenshot 2025-10-06 171234.png>)
+<img width="1907" height="814" alt="Screenshot 2025-10-06 170908" src="https://github.com/user-attachments/assets/d54663a6-1be4-4965-a98d-cdc41c8a61af" />
+
 
 
 ## RESULT
